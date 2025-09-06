@@ -1,0 +1,19 @@
+{
+  "chord_database_name": "ji-dyads",
+  "n_harmonics": 30,
+  "fs": 44100,
+  "duration": 2.0,
+  "rolloff_coeff": 1.0,
+  "decay_time": 0.7,
+  "decay_exponent": 1.0,
+  "f0": 440,
+  "B0": 0.0,
+  "beta": 0.8,
+  "jitter": 0.0,
+  "random_w": 5,
+  "random_h": 1,
+  "random_pitch": 1.0,
+  "pitch": 400.0,
+  "min_pitch": 200.0,
+  "max_pitch": 400.0
+}

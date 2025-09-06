@@ -1,0 +1,19 @@
+{
+  "chord_database_name" : "ji_chords",
+  "n_harmonics"         : 24,
+  "fs"                  : 44100,
+  "duration"            : 2.0,
+  "rolloff_coeff"       : 1.0,
+  "decay_time"          : 2.0,
+  "decay_exponent"      : 1.5,
+  "f0"                  : 440,
+  "B0"                  : 8.6e-4,
+  "beta"                : 0.80,
+  "jitter"              : 0.0,
+  "random_w"        : 3,
+  "random_h"        : 2,
+  "random_pitch"         : 1,
+  "pitch"    : 400,
+  "min_pitch"       : 400,
+  "max_pitch"       : 800
+}

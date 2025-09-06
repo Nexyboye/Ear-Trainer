@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Major Triad",
+    "short": "Maj",
+    "ratios": ["1/1", "5/4", "3/2"],
+    "repr": "4:5:6"
+  },
+  {
+    "name": "Minor Triad",
+    "short": "min",
+    "ratios": ["1/1", "6/5", "3/2"],
+    "repr": "10:12:15"
+  },
+  {
+    "name": "Diminished Triad",
+    "short": "dim",
+    "ratios": ["1/1", "6/5", "7/5"],
+    "repr": "5:6:7"
+  },
+  {
+    "name": "Augmented Triad",
+    "short": "aug",
+    "ratios": ["1/1", "5/4", "25/16"],
+    "repr": "16:20:25"
+  },
+  {
+    "name": "Major Seventh",
+    "short": "Maj7",
+    "ratios": ["1/1", "5/4", "3/2", "15/8"],
+    "repr": "8:10:12:15"
+  },
+  {
+    "name": "Minor Seventh",
+    "short": "min7",
+    "ratios": ["1/1", "6/5", "3/2", "9/5"],
+    "repr": "10:12:15:18"
+  },
+  {
+    "name": "Suspended Second",
+    "short": "sus2",
+    "ratios": ["1/1", "9/8", "3/2"],
+    "repr": "8:9:12"
+  },
+  {
+    "name": "Suspended Fourth",
+    "short": "sus4",
+    "ratios": ["1/1", "4/3", "3/2"],
+    "repr": "6:8:9"
+  },
+  {
+    "name": "Add9",
+    "short": "add9",
+    "ratios": ["1/1", "5/4", "3/2", "9/4"],
+    "repr": "4:5:6:9"
+  },
+  {
+    "name": "Add9",
+    "short": "minAdd9",
+    "ratios": ["1/1", "6/5", "3/2", "32/15"],
+    "repr": "30:36:45:64"
+  },
+  {
+    "name": "Sixth",
+    "short": "Maj6",
+    "ratios": ["1/1", "5/4", "3/2", "5/3"],
+    "repr": "12:15:18:20"
+  },
+  {
+    "name": "Sixth",
+    "short": "min6",
+    "ratios": ["1/1", "6/5", "3/2", "8/5"],
+    "repr": "10:12:15:16"
+  },
+  {
+    "name": "Dominant Seventh",
+    "short": "dom7",
+    "ratios": ["1/1", "5/4", "3/2", "9/5"],
+    "repr": "20:25:30:36"
+  },
+  {
+    "name": "Major Seventh Sharp Eleven",
+    "short": "Maj7#11",
+    "ratios": ["1/1", "5/4", "45/32", "15/8"],
+    "repr": "32:40:45:60"
+  },
+  {
+    "name": "Half-Diminished Seventh",
+    "short": "min7b5",
+    "ratios": ["1/1", "6/5", "7/5", "9/5"],
+    "repr": "5:6:7:9"
+  },
+  {
+    "name": "Diminished Seventh",
+    "short": "dim7",
+    "ratios": ["1/1", "6/5", "7/5", "7/4"],
+    "repr": "20:24:28:35"
+  },
+  {
+    "name": "Augmented Seventh",
+    "short": "aug7",
+    "ratios": ["1/1", "5/4", "25/16", "7/4"],
+    "repr": "16:20:25:28"
+  },
+  {
+    "name": "Major Ninth",
+    "short": "Maj9",
+    "ratios": ["1/1", "5/4", "3/2", "15/8", "9/4"],
+    "repr": "8:10:12:15:18"
+  },
+  {
+    "name": "Minor Ninth",
+    "short": "min9",
+    "ratios": ["1/1", "6/5", "3/2", "9/5", "32/15"],
+    "repr": "30:36:45:54:64"
+  },
+  {
+    "name": "Dominant Ninth",
+    "short": "dom9",
+    "ratios": ["1/1", "5/4", "3/2", "9/5", "9/4"],
+    "repr": "20:25:30:36:45"
+  },
+  {
+    "name": "Seventh Suspended Fourth",
+    "short": "7sus4",
+    "ratios": ["1/1", "4/3", "3/2", "9/5"],
+    "repr": "30:40:45:54"
+  },
+  {
+    "name": "Ninth Suspended Second",
+    "short": "9sus2",
+    "ratios": ["1/1", "9/8", "3/2", "9/5", "9/4"],
+    "repr": "40:45:60:72:90"
+  },
+  {
+    "name": "Ninth Suspended Fourth",
+    "short": "9sus4",
+    "ratios": ["1/1", "4/3", "3/2", "9/5", "9/4"],
+    "repr": "60:80:90:108:135"
+  },
+  {
+    "name": "Eleventh",
+    "short": "11",
+    "ratios": ["1/1", "5/4", "4/3", "3/2", "9/5"],
+    "repr": "60:75:80:90:108"
+  },
+  {
+    "name": "Major Eleventh",
+    "short": "Maj11",
+    "ratios": ["1/1", "5/4", "4/3", "3/2", "15/8"],
+    "repr": "24:30:32:36:45"
+  },
+  {
+    "name": "Minor Eleventh",
+    "short": "min11",
+    "ratios": ["1/1", "6/5", "4/3", "3/2", "9/5"],
+    "repr": "30:36:40:45:54"
+  },
+  {
+    "name": "Thirteenth",
+    "short": "dom13",
+    "ratios": ["1/1", "5/4", "4/3", "3/2", "5/3", "9/5"],
+    "repr": "60:75:80:90:100:108"
+  },
+  {
+    "name": "Major Thirteenth",
+    "short": "Maj13",
+    "ratios": ["1/1", "5/4", "4/3", "3/2", "5/3", "15/8"],
+    "repr": "24:30:32:36:40:45"
+  },
+  {
+    "name": "Minor Thirteenth",
+    "short": "min13",
+    "ratios": ["1/1", "6/5", "4/3", "3/2", "8/5", "9/5"],
+    "repr": "30:36:40:45:48:54"
+  },
+  {
+    "name": "Major Seventh Flat Five",
+    "short": "Maj7b5",
+    "ratios": ["1/1", "5/4", "7/5", "15/8"],
+    "repr": "40:50:56:75"
+  },
+  {
+    "name": "Major Seventh Sharp Five",
+    "short": "Maj7#5",
+    "ratios": ["1/1", "5/4", "25/16", "15/8"],
+    "repr": "16:20:25:30"
+  },
+  {
+    "name": "Dominant Seventh Flat Five",
+    "short": "7b5",
+    "ratios": ["1/1", "5/4", "7/5", "9/5"],
+    "repr": "20:25:28:36"
+  },
+  {
+    "name": "Dominant Seventh Sharp Five",
+    "short": "7#5",
+    "ratios": ["1/1", "5/4", "25/16", "9/5"],
+    "repr": "80:100:125:144"
+  },
+  {
+    "name": "Minor-Major Seventh",
+    "short": "minMaj7",
+    "ratios": ["1/1", "6/5", "3/2", "15/8"],
+    "repr": "40:48:60:75"
+  },
+  {
+    "name": "Seventh Suspended Second",
+    "short": "7sus2",
+    "ratios": ["1/1", "9/8", "3/2", "9/5"],
+    "repr": "40:45:60:72"
+  },
+  {
+    "name": "Ninth Sharp Eleven",
+    "short": "9#11",
+    "ratios": ["1/1", "5/4", "45/32", "3/2", "9/5", "9/4"],
+    "repr": "160:200:225:240:288:360"
+  }
+]

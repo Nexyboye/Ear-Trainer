@@ -1,0 +1,463 @@
+[
+  {
+    "name": "Perfect Fifth",
+    "short": "P5",
+    "ratios": ["1/1", "3/2"],
+    "repr": "2:3"
+  },
+  {
+    "name": "Perfect Fourth",
+    "short": "P4",
+    "ratios": ["1/1", "4/3"],
+    "repr": "3:4"
+  },
+  {
+    "name": "Major Third",
+    "short": "M3",
+    "ratios": ["1/1", "5/4"],
+    "repr": "4:5"
+  },
+  {
+    "name": "Minor Third",
+    "short": "m3",
+    "ratios": ["1/1", "6/5"],
+    "repr": "5:6"
+  },
+  {
+    "name": "Major Second",
+    "short": "M2",
+    "ratios": ["1/1", "9/8"],
+    "repr": "8:9"
+  },
+  {
+    "name": "Minor Second",
+    "short": "m2",
+    "ratios": ["1/1", "16/15"],
+    "repr": "15:16"
+  },
+  {
+    "name": "Major Sixth",
+    "short": "M6",
+    "ratios": ["1/1", "5/3"],
+    "repr": "3:5"
+  },
+  {
+    "name": "Minor Sixth",
+    "short": "m6",
+    "ratios": ["1/1", "8/5"],
+    "repr": "5:8"
+  },
+  {
+    "name": "Minor Seventh",
+    "short": "m7",
+    "ratios": ["1/1", "9/5"],
+    "repr": "5:9"
+  },
+  {
+    "name": "Major Seventh",
+    "short": "M7",
+    "ratios": ["1/1", "15/8"],
+    "repr": "8:15"
+  },
+  {
+    "name": "Tritone",
+    "short": "TT",
+    "ratios": ["1/1", "7/5"],
+    "repr": "5:7"
+  },
+  {
+    "name": "Septimal Minor Third",
+    "short": "7m3",
+    "ratios": ["1/1", "7/6"],
+    "repr": "6:7"
+  },
+  {
+    "name": "Septimal Whole Tone",
+    "short": "7M2",
+    "ratios": ["1/1", "8/7"],
+    "repr": "7:8"
+  },
+  {
+    "name": "Undecimal Major Tone",
+    "short": "10M2",
+    "ratios": ["1/1", "10/9"],
+    "repr": "9:10"
+  },
+  {
+    "name": "Undecimal Minor Tone",
+    "short": "11m2",
+    "ratios": ["1/1", "11/10"],
+    "repr": "10:11"
+  },
+  {
+    "name": "Undecimal Semitone",
+    "short": "11st",
+    "ratios": ["1/1", "12/11"],
+    "repr": "11:12"
+  },
+  {
+    "name": "Septendecimal Semitone",
+    "short": "15st",
+    "ratios": ["1/1", "15/14"],
+    "repr": "14:15"
+  },
+  {
+    "name": "Seventeenth Semitone",
+    "short": "17st",
+    "ratios": ["1/1", "17/16"],
+    "repr": "16:17"
+  },
+  {
+    "name": "Harmonic Seventh",
+    "short": "7m7",
+    "ratios": ["1/1", "7/4"],
+    "repr": "4:7"
+  },
+  {
+    "name": "Septimal Minor Sixth",
+    "short": "7m6",
+    "ratios": ["1/1", "7/5"],
+    "repr": "5:7"
+  },
+  {
+    "name": "Undecimal Neutral Third",
+    "short": "11n3",
+    "ratios": ["1/1", "11/9"],
+    "repr": "9:11"
+  },
+  {
+
+    "name": "Septimal Major Third",
+
+    "short": "7M3",
+
+    "ratios": ["1/1", "9/7"],
+
+    "repr": "7:9"
+
+  },
+
+  {
+
+    "name": "Undecimal Major Third",
+
+    "short": "11M3",
+
+    "ratios": ["1/1", "11/8"],
+
+    "repr": "8:11"
+
+  },
+
+  {
+
+    "name": "Undecimal Tritone",
+
+    "short": "11TT",
+
+    "ratios": ["1/1", "11/7"],
+
+    "repr": "7:11"
+
+  },
+
+  {
+
+    "name": "Undecimal Major Sixth",
+
+    "short": "11M6",
+
+    "ratios": ["1/1", "11/6"],
+
+    "repr": "6:11"
+
+  },
+
+  {
+
+    "name": "Tridecimal Minor Second",
+
+    "short": "13m2",
+
+    "ratios": ["1/1", "13/12"],
+
+    "repr": "12:13"
+
+  },
+
+  {
+
+    "name": "Tridecimal Neutral Second",
+
+    "short": "13n2",
+
+    "ratios": ["1/1", "13/11"],
+
+    "repr": "11:13"
+
+  },
+
+  {
+
+    "name": "Tridecimal Minor Third",
+
+    "short": "13m3",
+
+    "ratios": ["1/1", "13/10"],
+
+    "repr": "10:13"
+
+  },
+
+  {
+
+    "name": "Tridecimal Major Third",
+
+    "short": "13M3",
+
+    "ratios": ["1/1", "13/9"],
+
+    "repr": "9:13"
+
+  },
+
+  {
+
+    "name": "Tridecimal Augmented Fourth",
+
+    "short": "13A4",
+
+    "ratios": ["1/1", "13/8"],
+
+    "repr": "8:13"
+
+  },
+
+  {
+
+    "name": "Tridecimal Tritone",
+
+    "short": "13TT",
+
+    "ratios": ["1/1", "13/7"],
+
+    "repr": "7:13"
+
+  },
+
+  {
+
+    "name": "Seventeenth Minor Second",
+
+    "short": "17m2",
+
+    "ratios": ["1/1", "17/15"],
+
+    "repr": "15:17"
+
+  },
+
+  {
+
+    "name": "Seventeenth Neutral Second",
+
+    "short": "17n2",
+
+    "ratios": ["1/1", "17/14"],
+
+    "repr": "14:17"
+
+  },
+
+  {
+
+    "name": "Seventeenth Minor Third",
+
+    "short": "17m3",
+
+    "ratios": ["1/1", "17/13"],
+
+    "repr": "13:17"
+
+  },
+
+  {
+
+    "name": "Seventeenth Major Third",
+
+    "short": "17M3",
+
+    "ratios": ["1/1", "17/12"],
+
+    "repr": "12:17"
+
+  },
+
+  {
+
+    "name": "Seventeenth Augmented Fourth",
+
+    "short": "17A4",
+
+    "ratios": ["1/1", "17/11"],
+
+    "repr": "11:17"
+
+  },
+
+  {
+
+    "name": "Seventeenth Minor Sixth",
+
+    "short": "17m6",
+
+    "ratios": ["1/1", "17/10"],
+
+    "repr": "10:17"
+
+  },
+
+  {
+
+    "name": "Seventeenth Tritone",
+
+    "short": "17TT",
+
+    "ratios": ["1/1", "17/9"],
+
+    "repr": "9:17"
+
+  },
+  {
+
+    "name": "Nineteenth Neutral Second",
+
+    "short": "19n2",
+
+    "ratios": ["1/1", "19/17"],
+
+    "repr": "17:19"
+
+  },
+
+  {
+
+    "name": "Nineteenth Minor Third",
+
+    "short": "19m3",
+
+    "ratios": ["1/1", "19/16"],
+
+    "repr": "16:19"
+
+  },
+
+  {
+
+    "name": "Nineteenth Neutral Third",
+
+    "short": "19n3",
+
+    "ratios": ["1/1", "19/15"],
+
+    "repr": "15:19"
+
+  },
+
+  {
+
+    "name": "Nineteenth Major Third",
+
+    "short": "19M3",
+
+    "ratios": ["1/1", "19/14"],
+
+    "repr": "14:19"
+
+  },
+
+  {
+
+    "name": "Nineteenth Augmented Fourth",
+
+    "short": "19A4",
+
+    "ratios": ["1/1", "19/13"],
+
+    "repr": "13:19"
+
+  },
+
+  {
+
+    "name": "Nineteenth Minor Sixth",
+
+    "short": "19m6",
+
+    "ratios": ["1/1", "19/12"],
+
+    "repr": "12:19"
+
+  },
+
+  {
+
+    "name": "Nineteenth Tritone",
+
+    "short": "19TT",
+
+    "ratios": ["1/1", "19/11"],
+
+    "repr": "11:19"
+
+  },
+
+  {
+
+    "name": "Nineteenth Major Sixth",
+
+    "short": "19M6",
+
+    "ratios": ["1/1", "19/10"],
+
+    "repr": "10:19"
+
+  },
+
+  {
+
+    "name": "Twenty-third Neutral Second",
+
+    "short": "23n2",
+
+    "ratios": ["1/1", "23/21"],
+
+    "repr": "21:23"
+
+  },
+
+  {
+
+    "name": "Twenty-third Minor Third",
+
+    "short": "23m3",
+
+    "ratios": ["1/1", "23/20"],
+
+    "repr": "20:23"
+
+  },
+
+  {
+
+    "name": "Twenty-third Major Third",
+
+    "short": "23M3",
+
+    "ratios": ["1/1", "23/19"],
+
+    "repr": "19:23"
+
+  }
+
+]
